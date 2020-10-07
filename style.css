@@ -738,6 +738,8 @@ h1 {
 
 p.tc-black {
     color: black !important;
+    display: flex;
+    justify-content: center;
 }
 
 h4 {
