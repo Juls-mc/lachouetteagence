@@ -757,6 +757,11 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+
+}
+
+.img-responsive.portfolio-thumb {
+    display: inline;
 }
 
 .portfolio-row {
